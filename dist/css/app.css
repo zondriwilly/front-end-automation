@@ -1,0 +1,11 @@
+.wrapper {
+  display: block;
+}
+.wrapper .inner-wrapper {
+  display: flex;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.wrapper .inner-wrapper {
+  display: block;
+}

@@ -1,0 +1,14 @@
+.wrapper {
+    display: block;
+    .inner-wrapper {
+        display: flex;
+        margin: {
+            left: 10px;
+            right: 20px;
+        }
+    }
+
+     .inner-wrapper {
+        display: block;
+    }
+}
